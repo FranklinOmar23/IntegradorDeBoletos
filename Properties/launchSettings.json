@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "IntegradorDeBoletos (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "IntegradorDeBoletos (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
